@@ -4,6 +4,8 @@ I really appreciate your time to know about me. I am an intern @Edureka in the d
 
 ![Visitor Count](https://profile-counter.glitch.me/Adi3ya/count.svg)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sundarrajan-252265157/)](https://www.linkedin.com/in/aditya-sundarrajan-252265157/)
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
