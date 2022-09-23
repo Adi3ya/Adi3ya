@@ -1,6 +1,6 @@
 ### Hi Buddy 👋
 
-I really appreciate your time to know about me. I am an intern @Edureka in the domain of Web development. I am here to switch my carrier in the field of Web development because of the learning challenges and live changes reflecting in the web! I always have the thirst to learn new things on a daily basis and feel productive when put under challenging environment. Performing multitasks related to current work at a time or being busy and exhausted at the end of the day makes me feel good as it helps me to know my potential to the fullest. Currently I am focusing on front end technologies including HTML, CSS, JS, Bootstrap and my aim is to become a Full Stack Web Developer. Thanks for reading my info and be in touch to share knowledge in future!
+I really appreciate your time to know about me. I am an intern @Edureka in the domain of Web development. I am here to switch my carrier in the field of Web development because of the learning challenges and live changes reflecting in the web! I always have the thirst to learn new things on a daily basis and feel productive when put under challenging environment. Performing multitasks related to current work at a time makes me feel good as it helps me to know my potential to the fullest. Currently I am focusing on front end technologies including HTML, CSS, JS, Bootstrap and my aim is to become a Full Stack Web Developer. Thanks for reading my info and be in touch to share knowledge in future!
 
 ![Visitor Count](https://profile-counter.glitch.me/Adi3ya/count.svg)
 
